@@ -47,3 +47,28 @@ Nesta seção, organizo uma coleção de prompts otimizados para auxiliar educad
 Em ambos os casos, se a IA não gerar automaticamente a seção de transparência, utilize o seguinte **prompt de ajuste**:
 
 > "Gere uma única nova seção com a transparência sobre o uso de IA na geração deste plano de aula."
+
+## 3. Materiais Complementares — Triângulo Retângulo (STEAM & História)
+
+**Descrição:** Prompt para geração de conteúdo didático diversificado, incluindo contextualização histórica, exercícios de fixação e atividade prática mão na massa.
+
+### Prompt Utilizado:
+
+> Crie materiais complementares para o tema "Triângulo Retângulo" (Matemática, 9º ano):
+>
+> 1. **Textos Históricos:** Gere 2 textos curtos (150–200 palavras cada) que introduzam o triângulo retângulo. O primeiro deve abordar a descoberta do teorema em 4 civilizações antigas distintas e independentes. O segundo deve focar nas cheias do Rio Nilo e a agrimensura (marcação de terras).
+> 2. **Lista de Exercícios:** 1 exercício com 5 questões (mesclando múltipla escolha e resposta aberta) acompanhado de gabarito.
+> 3. **Atividade Prática:** 1 roteiro para trabalho em grupo (20–30 min), contendo: objetivo, passo a passo, materiais simples (papel quadriculado, canetinhas) e critérios de sucesso.
+>
+> **Diretrizes de Transparência e Ética:**
+> * Em cada item criado, inclua a tag `[Assistido por IA]`.
+> * Onde pertinente, insira um alerta ético/autoral (ex.: orientações para evitar o uso de imagens com licença restrita).
+> * Linguagem clara e didática voltada para estudantes do 9º ano.
+
+---
+
+### ⚠️ Notas de Execução para todos os Prompts
+
+Caso a IA não gere a seção de transparência automaticamente após a execução de qualquer um dos prompts desta biblioteca, utilize o seguinte comando de ajuste:
+
+> "Gere uma única nova seção com a transparência sobre o uso de IA na geração deste conteúdo."
