@@ -67,12 +67,6 @@ Em ambos os casos, se a IA não gerar automaticamente a seção de transparênci
 
 ---
 
-### ⚠️ Notas de Execução para todos os Prompts
-
-Caso a IA não gere a seção de transparência automaticamente após a execução de qualquer um dos prompts desta biblioteca, utilize o seguinte comando de ajuste:
-
-> "Gere uma única nova seção com a transparência sobre o uso de IA na geração deste conteúdo."
-
 ## 4. ChatGPT — Adaptação para 2 perfis de alunos (Personalização)
 
 **Descrição:** Prompt avançado para diferenciação pedagógica, permitindo que o docente adapte uma mesma aula para alunos com diferentes níveis de prontidão e confiança.
@@ -102,8 +96,17 @@ Caso a IA não gere a seção de transparência automaticamente após a execuç�
 
 ---
 
-### ⚠️ Notas de Execução para todos os Prompts
+## 5. Apresentação (Via Canva Magic Design)
 
-Caso a IA não gere a seção de transparência automaticamente após a execução de qualquer um dos prompts desta biblioteca, utilize o seguinte comando de ajuste:
+**Descrição:** Procedimento para transformar o plano de aula em uma apresentação visual utilizando a IA do Canva, ideal para quando não há integração direta com o Microsoft PowerPoint.
 
-> "Gere uma única nova seção com a transparência sobre o uso de IA na geração deste conteúdo."
+### Prompt/Procedimento Utilizado:
+
+> **Instrução:** Copie o conteúdo do plano de aula gerado e, na ferramenta "Texto para Apresentação" (ou Magic Design) do Canva, utilize o seguinte comando:
+> 
+> "Leia o plano de aula abaixo e gere uma apresentação para o tema 'Triângulo Retângulo' (Matemática, 9º ano). Foque na demonstração histórica de Pitágoras e inclua a atividade prática proposta. Use uma linguagem visual moderna e adequada para estudantes de 14-15 anos."
+> 
+> **Observação de Fluxo:**
+> Devido à ausência do Copilot integrado ao PowerPoint no momento da criação, segui o mesmo procedimento de estruturação lógica, utilizando o Canva para a conversão de texto em slides.
+
+---
