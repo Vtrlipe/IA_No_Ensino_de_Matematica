@@ -48,7 +48,7 @@ Em ambos os casos, se a IA não gerar automaticamente a seção de transparênci
 
 > "Gere uma única nova seção com a transparência sobre o uso de IA na geração deste plano de aula."
 
-## 3. Materiais Complementares — Triângulo Retângulo (STEAM & História)
+## 3. ChatGPT - Materiais didáticos (textos, exercício e atividade em grupo)
 
 **Descrição:** Prompt para geração de conteúdo didático diversificado, incluindo contextualização histórica, exercícios de fixação e atividade prática mão na massa.
 
