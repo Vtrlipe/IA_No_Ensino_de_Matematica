@@ -110,3 +110,41 @@ Em ambos os casos, se a IA não gerar automaticamente a seção de transparênci
 > Devido à ausência do Copilot integrado ao PowerPoint no momento da criação, segui o mesmo procedimento de estruturação lógica, utilizando o Canva para a conversão de texto em slides.
 
 ---
+## 6. ChatGPT — Gerador de Documentação (README e Reflexão)
+
+**Descrição:** Automação da documentação técnica do repositório e elaboração de pensamento crítico sobre o uso da tecnologia.
+
+### Prompt Utilizado:
+> Gere um `README.md` para o repositório **Projeto-Plano-Aula-IA**, contendo:
+> * Título e descrição do desafio;
+> * Resumo do plano (contexto, objetivos, metodologia, avaliação);
+> * Ferramentas de IA utilizadas (ChatGPT, Copilot, Canva) e onde foram aplicadas;
+> * Resumo da personalização para os 2 perfis;
+> * Internacionalização (idioma, nível CEFR e aplicação);
+> * Links para arquivos (`.pdf`, `.docx`, `.pptx`);
+> * Checklist de envio e créditos.
+> 
+> **Adicional:** Ao final do README, gere uma **reflexão crítica** (400–600 palavras) sobre o uso de IA neste projeto (ética/privacidade, ganhos de tempo, personalização, lições aprendidas). Marque trechos gerados com `[Assistido por IA]`.
+
+---
+## 7. ChatGPT — Auditoria de Ética, Privacidade e Checklist Final
+
+**Descrição:** Prompt de revisão final focado em compliance, ética educacional e organização de arquivos para entrega do projeto.
+
+### Prompt Utilizado:
+
+> Faça uma auditoria ética do projeto "Triângulo Retângulo, 9º ano", analisando:
+> 1. **Privacidade:** Riscos de exposição de dados pessoais e estratégias de anonimização.
+> 2. **Propriedade Intelectual:** Direitos autorais e necessidade de citações ou licenças específicas.
+> 3. **Equidade:** Vieses possíveis em exemplos ou atividades e sugestão de alternativas inclusivas.
+> 4. **Transparência:** Registro claro de onde a IA foi utilizada e qual foi o nível de revisão humana aplicada.
+>
+> **Em seguida, entregue um checklist final marcável confirmando:**
+> - [ ] Plano completo com seções e `[Assistido por IA]` sinalizado.
+> - [ ] Materiais (textos, exercício, atividade) prontos.
+> - [ ] Adaptação para 2 perfis implementada.
+> - [ ] Tradução de trecho (Inglês CEFR A2) incluída.
+> - [ ] Apresentação `.pptx` gerada.
+> - [ ] README.md com links e reflexão adicionados.
+> - [ ] Nomes de arquivos corretos: `Plano_de_Aula_IA.pdf/.docx`, `Apresentacao_Aula_IA.pptx`, `Reflexao_IA.docx/.pdf`.
+> - [ ] Conformidade com privacidade/autoria e rubrica incluída.
