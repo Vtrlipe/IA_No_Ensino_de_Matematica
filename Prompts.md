@@ -72,3 +72,38 @@ Em ambos os casos, se a IA não gerar automaticamente a seção de transparênci
 Caso a IA não gere a seção de transparência automaticamente após a execução de qualquer um dos prompts desta biblioteca, utilize o seguinte comando de ajuste:
 
 > "Gere uma única nova seção com a transparência sobre o uso de IA na geração deste conteúdo."
+
+## 4. ChatGPT — Adaptação para 2 perfis de alunos (Personalização)
+
+**Descrição:** Prompt avançado para diferenciação pedagógica, permitindo que o docente adapte uma mesma aula para alunos com diferentes níveis de prontidão e confiança.
+
+### Prompt Utilizado:
+
+> Para a mesma aula "Triângulo Retângulo" (9º ano, 50 min, 30 alunos), proponha adaptações concretas para dois perfis distintos de estudantes:
+>
+> **Perfil A (Alto Desempenho/Autonomia):**
+> * **Características:** Compreende conceitos abstratos facilmente, busca diferentes estratégias de resolução, possui boa base de cálculo e engajamento ativo em desafios.
+> * **Necessidades:** Estímulos adicionais para evitar desmotivação e problemas de maior complexidade/aprofundamento.
+>
+> **Perfil B (Dificuldades/Lacunas de Base):**
+> * **Características:** Lacunas em conteúdos fundamentais, insegurança/ansiedade com a disciplina, dependência de exemplos práticos e receio de participar.
+> * **Necessidades:** Reforço de fundamentos, passo a passo detalhado, recursos visuais/cotidianos e incentivo à autoconfiança.
+>
+> **Para cada perfil, entregue:**
+> 1. Objetivos ajustados.
+> 2. Instruções diferenciadas.
+> 3. Recursos específicos.
+> 4. Avaliação adaptada e evidências de aprendizagem.
+> 5. Observações de gestão de tempo/carga cognitiva.
+>
+> **Regras de Formatação:**
+> * Marque obrigatoriamente os itens propostos pela IA com a tag `[Assistido por IA]`.
+> * Utilize linguagem clara e acolhedora.
+
+---
+
+### ⚠️ Notas de Execução para todos os Prompts
+
+Caso a IA não gere a seção de transparência automaticamente após a execução de qualquer um dos prompts desta biblioteca, utilize o seguinte comando de ajuste:
+
+> "Gere uma única nova seção com a transparência sobre o uso de IA na geração deste conteúdo."
