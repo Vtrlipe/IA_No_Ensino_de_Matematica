@@ -12,7 +12,7 @@ Nesta seção, organizo uma coleção de prompts otimizados para auxiliar educad
 
 > Você é um assistente pedagógico especialista em IA aplicada à educação básica. Gere um plano de aula completo para Matemática, 9º ano (30 alunos) sobre “Triângulo retângulo” com 50 min de duração.
 >
-> **Entregue as seções:** Título, contexto, objetivos de aprendizagem de acordo com as competências gerais e específicas de Matemática, assim como suas respectivas habilidades (BNCC contidas no arquivo acima, leia-o), conteúdo programático, estratégias/metodologias passo a passo (tempo por etapa), recursos (incluindo onde a IA entra), avaliação (rubrica com critérios em níveis: básico, intermediário, avançado) e diferenciação para 2 perfis de alunos: 
+> **Entregue as seções:** Título, contexto, objetivos de aprendizagem de acordo com as competências gerais e específicas de Matemática, assim como suas respectivas habilidades (BNCC), conteúdo programático, estratégias/metodologias passo a passo (tempo por etapa), recursos (incluindo onde a IA entra), avaliação (rubrica com critérios em níveis: básico, intermediário, avançado) e diferenciação para 2 perfis de alunos: 
 >  * com alto/médio desempenho/boa compreensão; 
 >  * com médio/baixo desempenho/com dificuldades.
 > 
